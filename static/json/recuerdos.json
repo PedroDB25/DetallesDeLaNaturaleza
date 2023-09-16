@@ -1,0 +1,130 @@
+[
+    {
+        "nombre": "Recuerdo de arpillera",
+        "medida": "6 cm de alto x 7 cm de diámetro",
+        "disponible": "true",
+        "descripcion": "4 colores disponibles: Natural, bordeo, celeste y rosado",
+        "precio": "$1.700 C/U",
+        "link":"recuerdo_de arpillera.png"
+    },
+    {
+        "nombre": "Recuerdos en peceras",
+        "medida": "2 Medidas: 5 cm de alto x 5 cm de diámetro / 7cm de alto",
+        "disponible": "true",
+        "descripcion": "Macetas de vidrio con lazo de yute natural y piedras decorativas",
+        "precio": "$1.800/$1.900 C/U",
+        "link":"recuerdos_en_peceras.png"
+    },
+    {
+        "nombre": "Cuadrados de vidrio",
+        "medida": "2 Medidas: 5 x 5 cm / 6 x 6 cm",
+        "disponible": "true",
+        "descripcion": "Macetas de vidrio con lazo de yute natural y piedras decorativas.",
+        "precio": "$1.700/$1.800 C/U",
+        "link":"cuadrados_de_vidrio2.png"
+    },
+    {
+        "nombre": "Recuerdos en madera",
+        "medida": "6 cm de alto x 4,5 cm ancho",
+        "disponible": "true",
+        "descripcion": "Macetas de madera de pino hechas a mano. Único color disponible.",
+        "precio": "$1.500 C/U",
+        "link":"recuerdo_en_madera.png"
+    },
+    {
+        "nombre": "Mieleros",
+        "medida": " 6 cm de alto x 6 cm de diámetro",
+        "disponible": "true",
+        "descripcion": "Frasquitos de 20 g de miel natural con palitos mieleros artesanales.",
+        "precio": "$1.600 C/U",
+        "link":"mieleros.png"
+    },
+    {
+        "nombre": "Recuerdos en cerámica",
+        "medida": "5 cm de alto x 7 cm de diámetro",
+        "disponible": "false",
+        "descripcion": "AGOTADOS",
+        "precio": "$2.000 C/U",
+        "link":"recuerdo_en_ceramica.png"
+    },
+    {
+        "nombre": "Terrario con yute",
+        "medida": "30 cm de largo x 22 cm de ancho.",
+        "disponible": "true",
+        "descripcion": "Color disponible: Castaño",
+        "precio": "$18.000 C/U",
+        "link":"terrario_con_yute.png"
+    },
+    {
+        "nombre": "Cajón de madera",
+        "medida": "30 cm de largo x 22 cm de ancho.",
+        "disponible": "true",
+        "descripcion": "Colores disponibles: Castaño, natural y verde turquesa.",
+        "precio": "$18.000 C/U",
+        "link":"cajon_de_madera.png"
+    },
+    {
+        "nombre": "Cajón pequeño",
+        "medida": "30 cm de largo x 17 cm de ancho.",
+        "disponible": "true",
+        "descripcion": "Colores disponibles: Castaño y natural.",
+        "precio": "$17.000 C/U",
+        "link":"cajon_de_pequena.png"
+    },
+    {
+        "nombre": "Cuadrado de madera",
+        "medida": "Medidas: 22 x 22cm.",
+        "disponible": "true",
+        "descripcion": "2 modelos disponibles.",
+        "precio": "$15.000 C/U",
+        "link":"cuadrado_de_madera.png"
+    },
+    {
+        "nombre": "Cuadrado pequeño",
+        "medida": "Medidas: 15 x 15 cm.",
+        "disponible": "true",
+        "descripcion": "Colores disponibles: Castaño y natural.",
+        "precio": "$10.000 C/U",
+        "link":"cuadrado_de_pequeno.png"
+    },
+    {
+        "nombre": "Repisa de madera",
+        "medida": "Medidas: 20 x 20 cm",
+        "disponible": "true",
+        "descripcion": "Colores disponibles: Castaño y natural.",
+        "precio": "$16.000 C/U",
+        "link":"repisa_de_madera.png"
+    },
+    {
+        "nombre": "Macetas de cerámica",
+        "medida": "Medidas: 8 cm de alto.",
+        "disponible": "true",
+        "descripcion": "2 modelos. simple y doble",
+        "precio": "$3.500/6.500 C/U",
+        "link":"macetas_de_ceramica.png"
+    },
+    {
+        "nombre": "Terrario en vidrio",
+        "medida": "Medidas: 20 cm de diámetro x 8 cm de alto",
+        "disponible": "true",
+        "descripcion": "",
+        "precio": "$16.500 C/U",
+        "link":"terrario_en_vidrio.png"
+    },
+    {
+        "nombre": "Cuadrados de vidrio",
+        "medida": "Medidas: 12 x 12 cm",
+        "disponible": "true",
+        "descripcion": "",
+        "precio": "$16.500 C/U",
+        "link":"cuadrados_de_vidrio.png"
+    },
+    {
+        "nombre": "Jarrón de vidrio",
+        "medida": "2 modelos. simple y doble",
+        "disponible": "true",
+        "descripcion": "Modelo varía según disponibilidad. La imagen es REFERENCIAL",
+        "precio": "$12.000 C/U",
+        "link":"jarron_de_vidrio.png"
+    }
+]
