@@ -30,7 +30,7 @@ function cagarCartas() {
 
         let descripcion = document.createElement("p")
         descripcion.className = "card-text"
-        descripcion.innerHTML = recuerdo.descripcion
+        descripcion.innerHTML = (recuerdo.descripcion.length < 60 ? recuerdo.descripcion : (recuerdo.descripcion.substring(0,57) + "..."))
 
         let precio = document.createElement("p")
         precio.className = "card-text"
