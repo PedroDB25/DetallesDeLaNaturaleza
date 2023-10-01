@@ -13,7 +13,7 @@ function cagarCartas() {
         let carta = document.createElement("div")
         carta.className = "card m-3"
         carta.style.width = "20%"
-        carta.style.backgroundColor = "#f3e2d1"
+        carta.style.backgroundColor = recuerdo.tipo ==1 ? "#f3e2d1" : "#d1dff3"
         carta.style.border = "0px"
 
         let cartaimg = document.createElement("img")

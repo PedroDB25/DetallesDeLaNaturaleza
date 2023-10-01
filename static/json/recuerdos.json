@@ -5,7 +5,8 @@
         "disponible": "true",
         "descripcion": "4 colores disponibles: Natural, bordeo, celeste y rosado",
         "precio": "$1.700 C/U",
-        "link":"recuerdo_de arpillera.png"
+        "link":"recuerdo_de arpillera.png",
+        "tipo":"1"
     },
     {
         "nombre": "Recuerdos en peceras",
@@ -13,7 +14,8 @@
         "disponible": "true",
         "descripcion": "Macetas de vidrio con lazo de yute natural y piedras decorativas",
         "precio": "$1.800/$1.900 C/U",
-        "link":"recuerdos_en_peceras.png"
+        "link":"recuerdos_en_peceras.png",
+        "tipo":"1"
     },
     {
         "nombre": "Cuadrados de vidrio",
@@ -21,7 +23,8 @@
         "disponible": "true",
         "descripcion": "Macetas de vidrio con lazo de yute natural y piedras decorativas.",
         "precio": "$1.700/$1.800 C/U",
-        "link":"cuadrados_de_vidrio2.png"
+        "link":"cuadrados_de_vidrio2.png",
+        "tipo":"1"
     },
     {
         "nombre": "Recuerdos en madera",
@@ -29,7 +32,8 @@
         "disponible": "true",
         "descripcion": "Macetas de madera de pino hechas a mano. Único color disponible.",
         "precio": "$1.500 C/U",
-        "link":"recuerdo_en_madera.png"
+        "link":"recuerdo_en_madera.png",
+        "tipo":"1"
     },
     {
         "nombre": "Mieleros",
@@ -37,7 +41,8 @@
         "disponible": "true",
         "descripcion": "Frasquitos de 20 g de miel natural con palitos mieleros artesanales.",
         "precio": "$1.600 C/U",
-        "link":"mieleros.png"
+        "link":"mieleros.png",
+        "tipo":"1"
     },
     {
         "nombre": "Recuerdos en cerámica",
@@ -45,7 +50,8 @@
         "disponible": "false",
         "descripcion": "AGOTADOS",
         "precio": "$2.000 C/U",
-        "link":"recuerdo_en_ceramica.png"
+        "link":"recuerdo_en_ceramica.png",
+        "tipo":"1"
     },
     {
         "nombre": "Terrario con yute",
@@ -53,7 +59,8 @@
         "disponible": "true",
         "descripcion": "Color disponible: Castaño",
         "precio": "$18.000 C/U",
-        "link":"terrario_con_yute.png"
+        "link":"terrario_con_yute.png",
+        "tipo":"2"
     },
     {
         "nombre": "Cajón de madera",
@@ -61,7 +68,8 @@
         "disponible": "true",
         "descripcion": "Colores disponibles: Castaño, natural y verde turquesa.",
         "precio": "$18.000 C/U",
-        "link":"cajon_de_madera.png"
+        "link":"cajon_de_madera.png",
+        "tipo":"2"
     },
     {
         "nombre": "Cajón pequeño",
@@ -69,7 +77,8 @@
         "disponible": "true",
         "descripcion": "Colores disponibles: Castaño y natural.",
         "precio": "$17.000 C/U",
-        "link":"cajon_de_pequena.png"
+        "link":"cajon_de_pequena.png",
+        "tipo":"2"
     },
     {
         "nombre": "Cuadrado de madera",
@@ -77,7 +86,8 @@
         "disponible": "true",
         "descripcion": "2 modelos disponibles.",
         "precio": "$15.000 C/U",
-        "link":"cuadrado_de_madera.png"
+        "link":"cuadrado_de_madera.png",
+        "tipo":"2"
     },
     {
         "nombre": "Cuadrado pequeño",
@@ -85,7 +95,8 @@
         "disponible": "true",
         "descripcion": "Colores disponibles: Castaño y natural.",
         "precio": "$10.000 C/U",
-        "link":"cuadrado_de_pequeno.png"
+        "link":"cuadrado_de_pequeno.png",
+        "tipo":"2"
     },
     {
         "nombre": "Repisa de madera",
@@ -93,7 +104,8 @@
         "disponible": "true",
         "descripcion": "Colores disponibles: Castaño y natural.",
         "precio": "$16.000 C/U",
-        "link":"repisa_de_madera.png"
+        "link":"repisa_de_madera.png",
+        "tipo":"2"
     },
     {
         "nombre": "Macetas de cerámica",
@@ -101,7 +113,8 @@
         "disponible": "true",
         "descripcion": "2 modelos. simple y doble",
         "precio": "$3.500/6.500 C/U",
-        "link":"macetas_de_ceramica.png"
+        "link":"macetas_de_ceramica.png",
+        "tipo":"2"
     },
     {
         "nombre": "Terrario en vidrio",
@@ -109,7 +122,8 @@
         "disponible": "true",
         "descripcion": "",
         "precio": "$16.500 C/U",
-        "link":"terrario_en_vidrio.png"
+        "link":"terrario_en_vidrio.png",
+        "tipo":"2"
     },
     {
         "nombre": "Cuadrados de vidrio",
@@ -117,7 +131,8 @@
         "disponible": "true",
         "descripcion": "",
         "precio": "$16.500 C/U",
-        "link":"cuadrados_de_vidrio.png"
+        "link":"cuadrados_de_vidrio.png",
+        "tipo":"2"
     },
     {
         "nombre": "Jarrón de vidrio",
@@ -125,6 +140,7 @@
         "disponible": "true",
         "descripcion": "Modelo varía según disponibilidad. La imagen es REFERENCIAL",
         "precio": "$12.000 C/U",
-        "link":"jarron_de_vidrio.png"
+        "link":"jarron_de_vidrio.png",
+        "tipo":"2"
     }
 ]
