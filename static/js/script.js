@@ -7,7 +7,7 @@ function init() {
 }
 
 function cagarCartas() {
-    let cajaCartas = document.querySelector("section#catalogo")
+    let cajaCartas = document.querySelector("div#catalogo")
     for (const recuerdo of recuerdos) {
 
         let carta = document.createElement("div")
