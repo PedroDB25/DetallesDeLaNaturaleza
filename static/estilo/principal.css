@@ -1,3 +1,53 @@
-body{
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@200&family=Open+Sans:ital,wght@1,300&display=swap');
+
+* {
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
     background-color: rgb(255 249 243);
+}
+
+
+p {
+    font-family: "Martel Sans", sans-serif;
+}
+
+#quines p {
+    text-align: justify;
+    font-size: 1.5em;
+    font-weight: 400;
+    max-width: 70%;
+}
+
+p span {
+    font-weight: 900;
+}
+
+#quines p:first-of-type {
+    margin-top: 3em;
+}
+
+section.hidden {
+    display: none !important;
+}
+
+a.btn {
+    background-color: #fbc896 !important;
+    border: none;
+    color: brown;
+}
+#catalogoS>div{
+    width: 80%;
+}
+
+#catalogoS button {
+    border-radius: 10px 10px 0 0;
+    background-color: #fbc896 !important;
+    font-weight: 600;
+    border: none;
+}
+
+#catalogo {
+    background-color: rgb(235, 217, 198);
 }
