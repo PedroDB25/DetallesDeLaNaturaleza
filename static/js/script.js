@@ -59,7 +59,7 @@ function cargarCartas(tipoRecuerdo) {
 
         let link = document.createElement("a")
         link.className = "btn btn-primary"
-        link.classList.add(tipo == 1 ? "btn1" : "btn2")
+        link.classList.add(recuerdo.tipo == 1 ? "btn1" : "btn2")
         link.href = "#"
         link.innerHTML = "ver detalles"
 
