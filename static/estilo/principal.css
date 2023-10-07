@@ -19,6 +19,9 @@ p {
     font-weight: 400;
     max-width: 70%;
 }
+#quines img {
+    max-width: 80%;
+}
 
 p span {
     font-weight: 900;
@@ -50,4 +53,7 @@ a.btn {
 
 #catalogo {
     background-color: rgb(235, 217, 198);
+}
+iframe{
+    width: 80%;
 }
