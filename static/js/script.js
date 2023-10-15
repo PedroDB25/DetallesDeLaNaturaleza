@@ -21,8 +21,14 @@ function cambiarPagina() {
 }
 
 function cargarCartas(tipoRecuerdo) {
+    //validar boton valido
     tipoRecuerdo = this?.dataset.recuerdo
-    tipoRecuerdo = tipoRecuerdo ?? 1
+    tipoRecuerdo = tipoRecuerdo ?? 1;
+    //estilo al boton
+    this?.parentNode.querySelectorAll("button")?.forEach(el => el.classList.remove("btnClicado"));
+    this?.classList.add("btnClicado");
+
+    //Crear marco
     let cajaCartas = document.querySelector("div#catalogo")
     cajaCartas.innerHTML = ""
     for (const recuerdo of recuerdos) {
@@ -34,7 +40,7 @@ function cargarCartas(tipoRecuerdo) {
         let carta = document.createElement("div")
         carta.className = "card p-3"
         carta.style.width = "100%"
-        carta.style.backgroundColor = recuerdo.tipo == 1 ? "#f3e2d1" : "#d1dff3"
+        carta.style.backgroundColor = "#f3e2d1";
         carta.style.border = "0px"
 
         let cartaimg = document.createElement("img")
