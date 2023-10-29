@@ -63,11 +63,18 @@ function cargarCartas(tipoRecuerdo) {
         precio.className = "card-text"
         precio.innerHTML = recuerdo.precio
 
-        let link = document.createElement("a")
+        let link = document.createElement("button")
         link.className = "btn btn-primary"
         link.classList.add(recuerdo.tipo == 1 ? "btn1" : "btn2")
-        link.href = "#"
         link.innerHTML = "ver detalles"
+        link.dataset.bsToggle = "modal"
+        link.dataset.bsTarget = "#exampleModal"
+        link.addEventListener("click",function(){
+            let img = this.parentNode.parentNode.querySelector("img").src
+            let title = this.parentNode.querySelector("h5").innerHTML
+            document.querySelector("#modalTitle").innerHTML = title
+            document.querySelector("#imgModal").src = img
+        })
 
 
         cartabody.appendChild(titulo)
